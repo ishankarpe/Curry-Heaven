@@ -21,12 +21,63 @@ Or veggie pulao.
 ### A step-by-step guide
 #### Preparation
 1. Soak 20 cashews in a cup of hot water for 20 minutes.
-2. When the cashews are soaking, you can prepare the other ingredients like chopping tomatoes, chopping and preparing the ginger garlic paste, slicing the paneer and more.
+2. When the cashews are soaking, you can prepare the other ingredients like chopping tomatoes, chopping and preparing the ginger garlic paste, slicing the paneer and others.
+3. Crush 1-inch ginger and 4 medium sized garlic to a paste. Keep aside.
+4. After 20 minutes, drain the water and add the soaked cashews in a blender. Also, add 3 tablespoons of water.
+5. Grind to a smooth paste without any tiny bits or pieces of cashews.
+6. Remove the cashew paste in a bowl and keep aside.
+7. In the same blender add 2 cups of diced tomatoes.
+8. Blend to a smooth tomato puree. Keep aside. Don’t add any water while blending the tomatoes.
+#### Making makhani gravy
+9. Heat a thick pan, Add 2 tablespoons butter, Add 1 Tej Patta (Indian bay leaf).
+10. Fry for 3 seconds, Add the prepared crushed ginger garlic
+11. Fry for some seconds till the ginger garlic disappears.
+12. Pour the prepared tomato puree.
+13. The tomato puree mixture will start simmering.
+14. Simmer the puree for 5 to 6 minutes.
+15. Then add 1 teaspoon Kashmiri red chilli powder.
+16. Mix well and continue to stir the tomato puree.
+17. Saute till the butter starts leaving the sides of the pan and the entire tomato puree mixture comes together as a whole. 
+18. Now add the prepared cashew paste.
+19. Mix the cashew paste very well with the cooked tomato puree and continue to Stir nonstop after adding cashew paste for 3 to 4 minutes.
+20. Add 2 cups of water.
+21. Mix the water very well with the tomato-cashew makhani masala.
+22. After 2 mins, add ginger julienned, add 2 slit green chillies.
+23. Add salt for taste.
+24. Mix very well and simmer for a minute.
+25. After the gravy thickens, then add the sliced paneer.
+26. Stir and mix the paneer gently in the makhani gravy.
+27. Add 1 teaspoon crushed kasuri methi leaves, followed by 1 teaspoon garam masala in the gravy.
+28. Next add 2 tablespoons of low fat cream.
+29. Stir well and switch off the flame. 
+30. Serve with naan bread or tandoori roti, it also goes well along steamed basmati rice.
 
-
-
-
-
-
-
+### Recipe Card
+for 4 people
+#### Ingredients
+for preparing cashew paste
+*  20 whole cashews
+* 1/3 cup hot water for soaking cashews
+for preparing tomato puree
+ * 2 cups diced tomatoes or 300 grams tomatoes or 5 medium size - pureed
+for making paneer butter masala
+  * 2 tablespoons butter or 1 tablespoon oil + 1 or 2 tablespoons butter
+  * 1 tej patta (indian bay leaf)
+  * 1 inch ginger and 3 to 4 garlic - crushed or ground in a mortar and pestle
+  * ½ to 1 teaspoon kashmiri red chili powder or deghi mirch - if using any other chilli powder you can add ¼ to ½ teaspoon
+  * 1.5 cups water or add as required
+  * 1 inch ginger julienned, 
+  * 1 or 2 green chili - slit
+  * 200 to 250 grams paneer (cottage cheese) 
+  * 1 teaspoon kasuri methi (dry fenugreek leaves) 
+  * ½ to 1 teaspoon garam masala or tandoori masala
+  * 2 to 3 tablespoons low-fat cream or 1 to 2 tablespoons heavy whipping cream
+  * ¼ to 1 teaspoon sugar 
+  * salt
+ for garnishing
+  *  1 to 2 tablespoons chopped coriander leaves (cilantro leaves) for garnishing
+  * a few ginger julienne
+  * 1 tablespoon low fat cream 1 tablespoon heavy whipping cream
+  * 1 to 2 teaspoons butter
+ 
 
