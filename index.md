@@ -39,18 +39,12 @@ Or veggie pulao.
 15. Then add 1 teaspoon Kashmiri red chilli powder.
 16. Mix well and continue to stir the tomato puree.
 17. Saute till the butter starts leaving the sides of the pan and the entire tomato puree mixture comes together as a whole. 
-18. Now add the prepared cashew paste.
-19. Mix the cashew paste very well with the cooked tomato puree and continue to Stir nonstop after adding cashew paste for 3 to 4 minutes.
-20. Add 2 cups of water.
-21. Mix the water very well with the tomato-cashew makhani masala.
-22. After 2 mins, add ginger julienned, add 2 slit green chillies.
-23. Add salt for taste.
-24. Mix very well and simmer for a minute.
-25. After the gravy thickens, then add the sliced paneer.
-26. Stir and mix the paneer gently in the makhani gravy.
-27. Add 1 teaspoon crushed kasuri methi leaves, followed by 1 teaspoon garam masala in the gravy.
-28. Next add 2 tablespoons of low fat cream.
-29. Stir well and switch off the flame. 
+19.  Now add the prepared cashew paste and Mix the cashew paste very well with the cooked tomato puree and continue to Stir nonstop after adding cashew paste for 3 to 4 minutes.
+20. Add 2 cups of wate, Mix the water very well with the tomato-cashew makhani masala.
+21. After 2 mins, add ginger julienned, add 2 slit green chillies, Add salt for taste and simmer for a minute.
+22. After the gravy thickens, then add the sliced paneer in the makhani gravy.
+23. Add 1 teaspoon crushed kasuri methi leaves, followed by 1 teaspoon garam masala in the gravy.
+24. Next add 2 tablespoons of low fat cream Stir well and switch off the flame. 
 30. Serve with naan bread or tandoori roti, it also goes well along steamed basmati rice.
 
 ### Recipe Card
