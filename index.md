@@ -29,7 +29,7 @@ Or veggie pulao.
 7. In the same blender add 2 cups of diced tomatoes.
 8. Blend to a smooth tomato puree. Keep aside. Don’t add any water while blending the tomatoes.
 
-   Making makhani gravy
+    Making makhani gravy
 9. Heat a thick pan, Add 2 tablespoons butter, Add 1 Tej Patta (Indian bay leaf).
 10. Fry for 3 seconds, Add the prepared crushed ginger garlic
 11. Fry for some seconds till the ginger garlic disappears.
