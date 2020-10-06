@@ -28,6 +28,7 @@ Or veggie pulao.
 6. Remove the cashew paste in a bowl and keep aside.
 7. In the same blender add 2 cups of diced tomatoes.
 8. Blend to a smooth tomato puree. Keep aside. Don’t add any water while blending the tomatoes.
+
 #### Making makhani gravy
 9. Heat a thick pan, Add 2 tablespoons butter, Add 1 Tej Patta (Indian bay leaf).
 10. Fry for 3 seconds, Add the prepared crushed ginger garlic
@@ -55,7 +56,6 @@ Or veggie pulao.
 ### Recipe Card
 for 4 people
 #### Ingredients
-for preparing cashew paste
 *  20 whole cashews
 * 1/3 cup hot water for soaking cashews
 for preparing tomato puree
