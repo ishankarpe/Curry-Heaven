@@ -1,1 +1,1 @@
-# curry-heaven
+# Curry Heaven
