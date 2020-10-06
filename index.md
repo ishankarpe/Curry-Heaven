@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Curry Heaven
+## By 10 year old chef Eshan
 
-You can use the [editor on GitHub](https://github.com/eshankarpe/curry-heaven/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## How I started My Cooking Journey?
+When I was 9 years old I started watching the cooking like channel America's Test Kitchen and others, when I saw the final dish I wanted to try those dishes. Later I began to watch the YouTube channel Mark Wiens, He is a food person who loves to eat different kinds of food from the world. Whenever I see his videos about the food I get fascinated about the colorful food and different techniques and textures and that makes my mouth water. My mom has a love and passion for cooking and I have seen my mom trying out new dishes and then I started slowly helping her in easy things like stirring the curry, garnishing the food, and more. Then this summer during the lockdown I wanted to try something new with my mom that involves cooking, under my mom's guidance I decided to learn how to cook pancakes. When I tried to cook the pancake for the first time I had some difficulties like pouring the batter into the pan, adjusting the temperature, and flipping the pancake. It took me a few days to get the hang of it, but soon I was able to make pancakes all by myself without any help. Then later on I started learning how to make dosas, sandwiches, and omelets. That is how I got my interest in cooking. I am still learning how to make new dishes like Indian dishes on the weekends. I am looking forward to making Thai, Chinese, Italian food, and more different kinds of food.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Dish 1. Paneer Butter Masala.
+Paneer butter masala is a north Indian Cuisine dish. It is a rich and creamy dish made of tomatoes, butter, and cashew sauce.
 
-### Markdown
+## About this Paneer Butter Masala Recipe
+This recipe contains Makhani gravy and Cream.
+The makhani sauce is prepared with fresh the tomatoes, cashews and butter. Adding the cream thickens the gravy slightly and makes it rich.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Serving Ideas
 
-```markdown
-Syntax highlighted code block
+With Indian breads: You can serve this dish with naan bread or tandoori roti or plain paratha.
+With rice: It also goes well with steamed basmati rice or jeera rice.
+Or veggie pulao.
 
-# Header 1
-## Header 2
-### Header 3
+## How to make Paneer Butter Masala
+### A step-by-step guide
+#### Preparation
+1. Soak 20 cashews in a cup of hot water for 20 minutes.
+2. When the cashews are soaking, you can prepare the other ingredients like chopping tomatoes, chopping and preparing the ginger garlic paste, slicing the paneer and more.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eshankarpe/curry-heaven/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
