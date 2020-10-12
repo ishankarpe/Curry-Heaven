@@ -51,6 +51,10 @@ Or veggie pulao.
 23. Next add 2 tablespoons of low-fat cream Stir well and switch off the flame. 
 24. Serve with naan bread or tandoori roti, it also goes well along with steamed basmati rice.
 
+### Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7AjpRRJiRRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Recipe Card
 for 4 people
 #### Ingredients
