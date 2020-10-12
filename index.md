@@ -6,7 +6,7 @@ When I was 9 years old I started watching the cooking channel America's Test Kit
 
 My mom has a love and passion for cooking and I have seen my mom trying out new dishes and then I started slowly helping her in easy things like stirring the curry, garnishing the food, and more. Then this summer during the lockdown I wanted to try something new with my mom that involves cooking, under my mom's guidance I decided to learn how to cook pancakes. When I tried to cook the pancake for the first time I had some difficulties like pouring the batter into the pan, adjusting the temperature, and flipping the pancake. It took me a few days to get the hang of it, but soon I was able to make pancakes all by myself without any help.
 
-Then later on I started learning how to make dosas, sandwiches, and omelets. That is how I got my interest in cooking. I am still learning how to make new dishes like Indian dishes on the weekends. I am looking forward to making Thai, Chinese, Italian food, and different kinds of food.
+Then later on I started learning how to make dosas, sandwiches, and omelets. That is how I got my interest in cooking. I am still learning to make new dishes like Indian dishes on the weekends. I am looking forward to making Thai, Chinese, Italian food, and different kinds of food.
 
 ## Dish 1. Paneer Butter Masala.
 ![](20201011_200142.jpg)
