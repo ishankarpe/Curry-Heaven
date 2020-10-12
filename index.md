@@ -9,6 +9,7 @@ My mom has a love and passion for cooking and I have seen my mom trying out new 
 Then later on I started learning how to make dosas, sandwiches, and omelets. That is how I got my interest in cooking. I am still learning how to make new dishes like Indian dishes on the weekends. I am looking forward to making Thai, Chinese, Italian food, and different kinds of food.
 
 ## Dish 1. Paneer Butter Masala.
+![](20201011_200142.jpg)
 Paneer butter masala is a north Indian Cuisine dish. It is a rich and creamy dish made of tomatoes, butter, and cashew sauce.
 
 ## About this Paneer Butter Masala Recipe
@@ -21,9 +22,13 @@ With Indian bread: You can serve this dish with naan bread or tandoori roti or p
 With rice: It also goes well with steamed basmati rice or jeera rice.
 Or veggie pulao.
 
+
 ## How to make Paneer Butter Masala
 ### A step-by-step guide
    Preparation
+   
+   ![](20201009_163415.jpg)
+   
 1. Soak 20 cashews in a cup of hot water for 20 minutes.
 2. When the cashews are soaking, you can prepare the other ingredients like chopping tomatoes, chopping and preparing the ginger garlic paste, slicing the paneer, and others.
 3. Crush 1-inch ginger and 4 medium-sized garlic to a paste. Keep aside.
